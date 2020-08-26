@@ -1,0 +1,31 @@
+vasanth:
+  name: "Vasanth Sarathy"
+  url: "http://www.vsarathy.com"
+  affiliation: "Tufts University"
+  img: "vsarathy.jpg"
+patricia:
+  name: "Patricia Alves-Oliviera"
+  url:
+  affiliation: "University of Washington"
+  img:
+goren:
+  name: "Goren Gordon"
+  url:
+  affiliation: "Tel Aviv University"
+  img:
+amy:
+  name: "Amy LaViers"
+  url:
+  affiliation: "University of Illinois at Urbana-Champaign"
+  img:
+maya:
+  name: "Maya Cakmak"
+  url:
+  affiliation: "University of Washington"
+  img:
+peter: 
+  name: "Peter Kahn"
+  url:
+  affiliation: "University of Washington"
+  img:
+
