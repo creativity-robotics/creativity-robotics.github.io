@@ -4,28 +4,28 @@ vasanth:
   affiliation: "Tufts University"
   img: "vsarathy.jpg"
 patricia:
-  name: "Patricia Alves-Oliviera"
-  url:
+  name: "Patricia Alves-Oliveira"
+  url: "https://patricialvesoliveira.com/"
   affiliation: "University of Washington"
-  img:
+  img: "palvesoliveira.jpeg"
 goren:
   name: "Goren Gordon"
-  url:
+  url: "https://www.curiositylabtau.com/"
   affiliation: "Tel Aviv University"
-  img:
+  img: "ggordon.jpg"
 amy:
   name: "Amy LaViers"
   url:
-  affiliation: "University of Illinois at Urbana-Champaign"
-  img:
+  affiliation: "Robots, Automation and Dance (RAD) Laboratory"
+  img: "alaviers.png"
 maya:
   name: "Maya Cakmak"
-  url:
+  url: "https://homes.cs.washington.edu/~mcakmak/"
   affiliation: "University of Washington"
   img:
 peter: 
   name: "Peter Kahn"
-  url:
+  url: "https://faculty.washington.edu/pkahn/"
   affiliation: "University of Washington"
-  img:
+  img: "pkahn.jpg"
 
