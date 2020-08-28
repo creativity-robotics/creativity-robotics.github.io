@@ -7,6 +7,5 @@ use-site-title: true
 
 # Schedule 
 
-#### Saturday, November 14, 2020
-
+Coming Soon!
 

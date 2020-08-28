@@ -30,10 +30,11 @@ the organizers of this proposed workshop.
 
 
 # Program 
-The workhop will employ a variety of tools such as breakout rooms, word clouds,
-and polls to learn from our audience on common themes, help our
-speakers better tailor their talks, and generally enhance the
-experience for our audience.
+
+The workhop will employ a variety of interactive tools such as
+breakout rooms, word clouds, and polls to learn from our audience
+on common themes, help our speakers better tailor their talks, and
+generally enhance the experience for our audience.
 
 We expect this workshop will benefit researchers by providing new networking
 opportunities and, through our Frontiers research topic, fostering continued

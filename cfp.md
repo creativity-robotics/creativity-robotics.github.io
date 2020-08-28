@@ -6,16 +6,15 @@ subtitle: at ICSR 2020
 
 # Call for Papers
 
-**Submission:**  October 9, 2020 (midnight Pacific Time) <br>
+**Submission:**  October 16, 2020 (midnight Pacific Time) <br>
 **Notification:** October 31, 2020 <br>
 **Workshop:** November 14, 2020
 
 
-We invite papers that target creativity, robotics and the arts, design,
-and engineering related challenges: including new methodology, datasets,
-evaluations, surveys, reproduced results, and negative results.
-
-
+We invite papers that target creativity, robotics and the arts,
+design, and engineering related challenges: including new
+algorithms, systems, methodology, datasets, evaluations, surveys, reproduced
+results, and negative results.
 
 Contributions to this workshop are required to provide a clear definition for
 the concept of Creativity. Additionally, contributions are expected to discuss
@@ -56,10 +55,7 @@ double-blind. All submissions must be formatted with LaTeX using
 the [ICSR 2020 paper
 format](https://sites.psu.edu/icsr2020/submission/)
 
-All accepted papers will be presented in a virtual oral
-presentation session. Selected high-quality but rejected papers
-will be showcased via zoom slideshow during coffee and lunch
-breaks. We welcome articles currently under review or papers
+We welcome articles currently under review or papers
 planned for publication elsewhere. However, papers that have been
 published at an another archival conference should not be submitted. Accepted
 papers will be published on the Creativity and Robotics homepage, but are to be

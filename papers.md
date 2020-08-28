@@ -6,4 +6,4 @@ subtitle: at ICSR 2020
 
 # Accepted Papers
 
-To be announced. 
+Coming soon! 
