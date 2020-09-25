@@ -8,7 +8,7 @@ subtitle: at ICSR 2020
 
 **Submission:**  October 16, 2020 (midnight Pacific Time) <br>
 **Notification:** October 31, 2020 <br>
-**Workshop:** November 14, 2020
+**Workshop:** November 14 and 15, 2020
 
 
 We invite papers that target creativity, robotics and the arts,
@@ -54,6 +54,8 @@ details that do not fit in the 6 pages. The submission process is
 double-blind. All submissions must be formatted with LaTeX using
 the [ICSR 2020 paper
 format](https://sites.psu.edu/icsr2020/submission/)
+
+Submission: Email paper to creativity.robotics@gmail.com
 
 We welcome articles currently under review or papers
 planned for publication elsewhere. However, papers that have been

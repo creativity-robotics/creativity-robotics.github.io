@@ -31,7 +31,7 @@ the organizers of this proposed workshop.
 
 # Program 
 
-The workhop will employ a variety of interactive tools such as
+The workshop will employ a variety of interactive tools such as
 breakout rooms, word clouds, and polls to learn from our audience
 on common themes, help our speakers better tailor their talks, and
 generally enhance the experience for our audience.
@@ -43,6 +43,32 @@ paper containing the speakers' and audience's challenges for the future,
 burning research questions and other remarks collected throughout.
 
 <hr>
+
+# Keynote 
+
+We are excited to announce that **Professor Todd Lubart** will be our keynote
+speaker for the workshop. 
+
+Todd Lubart is Professor at the University Paris Descartes where
+he directs the activity of the Laboratoire Adaptations Travail
+Individu (LATI). He earned his PhD from Yale University in 1994
+under the supervision of Robert Sternberg and soon after that
+moved to the University of Paris Descartes where he became an
+Assistant Professor in 1995 and then Professor of Psychology in 2002. 
+
+He was a member of the Institut Universitaire de France
+(2005-2010). His work on creativity is extensive and includes
+approximately 75 publications, articles, books and book chapters
+covering various aspects of the phenomenon: creative process,
+individual differences, role of cognition and emotion,
+environmental and cultural factors, etc. His current work develops
+a multivariate approach to creativity.
+
+<!--
+{% for p in site.data.speakers %}
+{% capture id %}{{ p[0] }}{% endcapture %} {% include profile.html p=p %}
+{% endfor %}
+-->
 
 # Organizers
 
