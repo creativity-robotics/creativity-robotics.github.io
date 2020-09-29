@@ -38,9 +38,9 @@ generally enhance the experience for our audience.
 
 We expect this workshop will benefit researchers by providing new networking
 opportunities and, through our Frontiers research topic, fostering continued
-research in this field.  The output of the workshop will be a short summary
+research in this field. The output of the workshop will be a short summary
 paper containing the speakers' and audience's challenges for the future,
-burning research questions and other remarks collected throughout.
+burning research questions, and other remarks collected throughout.
 
 <hr>
 
@@ -58,7 +58,7 @@ Assistant Professor in 1995 and then Professor of Psychology in 2002.
 
 He was a member of the Institut Universitaire de France
 (2005-2010). His work on creativity is extensive and includes
-approximately 75 publications, articles, books and book chapters
+approximately 75 publications, articles, books, and book chapters
 covering various aspects of the phenomenon: creative process,
 individual differences, role of cognition and emotion,
 environmental and cultural factors, etc. His current work develops
