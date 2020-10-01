@@ -12,7 +12,7 @@ subtitle: at ICSR 2020
 
 
 We invite papers that target creativity, robotics and the arts,
-design, and engineering related challenges: including new
+design, and engineering-related challenges: including new
 algorithms, systems, methodology, datasets, evaluations, surveys, reproduced
 results, and negative results.
 
@@ -59,6 +59,6 @@ Submission: Email paper to creativity.robotics@gmail.com
 
 We welcome articles currently under review or papers
 planned for publication elsewhere. However, papers that have been
-published at an another archival conference should not be submitted. Accepted
+published at another archival conference should not be submitted. Accepted
 papers will be published on the Creativity and Robotics homepage, but are to be
 considered non-archival.
