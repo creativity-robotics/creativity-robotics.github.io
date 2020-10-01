@@ -49,6 +49,16 @@ burning research questions and other remarks collected throughout.
 We are excited to announce that **Professor Todd Lubart** will be our keynote
 speaker for the workshop.
 
+## "The 7Cs of Creativity for humans and robots" 
+
+Creativity from a psychological perspective refers to the ability to generate
+new, original ideas that have meaning and value in their context.  Research
+during the past century will be overview based on the 7Cs conception:  Creators
+(individual characteristics), Creating (the process) , Collaboration (dyads or
+teams), Context, Creations (productions), Consumption (adoption of creative
+ideas), and Curricula ( learning to be creative).  In the context of the 7Cs,
+the interest of social robots for creativity is then explored. 
+
 **Todd Lubart** is Professor at the Université de Paris  (formerly Paris Descartes)
 where he directed the activity of the Laboratoire Adaptations Travail Individu
 (LATI). He is the president of [ISSCI](https://issci.online/), a non-profit,
@@ -63,16 +73,6 @@ articles, books and book chapters covering various aspects of the phenomenon:
 creative process, individual differences, role of cognition and emotion,
 environmental and cultural factors, etc. His current work develops a
 multivariate approach to creativity.
-
-## "The 7Cs of Creativity for humans and robots" 
-
-Creativity from a psychological perspective refers to the ability to generate
-new, original ideas that have meaning and value in their context.  Research
-during the past century will be overview based on the 7Cs conception:  Creators
-(individual characteristics), Creating (the process) , Collaboration (dyads or
-teams), Context, Creations (productions), Consumption (adoption of creative
-ideas), and Curricula ( learning to be creative).  In the context of the 7Cs,
-the interest of social robots for creativity is then explored. 
 
 <!--
 {% for p in site.data.speakers %}
