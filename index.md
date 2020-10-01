@@ -49,7 +49,7 @@ burning research questions and other remarks collected throughout.
 We are excited to announce that **Professor Todd Lubart** will be our keynote
 speaker for the workshop. 
 
-## The 7Cs of Creativity for humans and robots 
+## "The 7Cs of Creativity for humans and robots" 
 
 Creativity from a psychological perspective refers to the ability to generate
 new, original ideas that have meaning and value in their context.  Research
