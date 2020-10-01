@@ -49,20 +49,31 @@ burning research questions and other remarks collected throughout.
 We are excited to announce that **Professor Todd Lubart** will be our keynote
 speaker for the workshop. 
 
-Todd Lubart is Professor at the University Paris Descartes where
-he directs the activity of the Laboratoire Adaptations Travail
-Individu (LATI). He earned his PhD from Yale University in 1994
-under the supervision of Robert Sternberg and soon after that
-moved to the University of Paris Descartes where he became an
-Assistant Professor in 1995 and then Professor of Psychology in 2002. 
+## The 7Cs of Creativity for humans and robots 
 
-He was a member of the Institut Universitaire de France
-(2005-2010). His work on creativity is extensive and includes
-approximately 75 publications, articles, books and book chapters
-covering various aspects of the phenomenon: creative process,
-individual differences, role of cognition and emotion,
-environmental and cultural factors, etc. His current work develops
-a multivariate approach to creativity.
+Creativity from a psychological perspective refers to the ability to generate
+new, original ideas that have meaning and value in their context.  Research
+during the past century will be overview based on the 7Cs conception:  Creators
+(individual characteristics), Creating (the process) , Collaboration (dyads or
+teams), Context, Creations (productions), Consumption (adoption of creative
+ideas), and Curricula ( learning to be creative).  In the context of the 7Cs,
+the interest of social robots for creativity is then explored. 
+
+
+**Todd Lubart** is Professor at the Université de Paris  (formerly Paris Descartes)
+where he directed the activity of the Laboratoire Adaptations Travail Individu
+(LATI). He is the president of [ISSCI](https://issci.online/), a non-profit,
+international society for the scientific study of creativity and innovation,
+He earned his PhD from Yale University in 1994 under the supervision of Robert
+Sternberg and soon after that moved to the University of Paris Descartes where
+he became an Assistant Professor in 1995 and then Professor of Psychology in 2002. 
+
+He was a member of the Institut Universitaire de France (2005-2010). His work
+on creativity is extensive and includes approximately 200 publications,
+articles, books and book chapters covering various aspects of the phenomenon:
+creative process, individual differences, role of cognition and emotion,
+environmental and cultural factors, etc. His current work develops a
+multivariate approach to creativity.
 
 <!--
 {% for p in site.data.speakers %}
