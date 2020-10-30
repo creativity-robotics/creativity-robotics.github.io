@@ -7,7 +7,8 @@ subtitle: at ICSR 2020
 # Call for Papers
 
 **Submission:**  (UPDATED) **Oct 26, 2020** (midnight Pacific Time) <br>
-**Notification:** Nov. 5, 2020 <br>
+**Notification:** (UPDATED) **Oct 30, 2020** Nov. 5, 2020 <br>
+**VIDEO SUBMISSION DUE:** **Nov 10, 2020** (midnight Pacific Ttime) <br>
 **Workshop:** November 14 and 15, 2020
 
 
