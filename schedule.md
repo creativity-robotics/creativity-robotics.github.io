@@ -7,15 +7,14 @@ use-site-title: true
 
 # Detailed Schedule
 
-The workshop will be held on November 14 and 15, 2020 starting each day at
-20:20 GMT.
+The workshop will be held on November 14 and 15, 2020 each day: 
 
-**Each day:**
-GMT: 20:20 - 22:20
-ET (New York): 3:20pm - 5:20pm 
-PT (San Francisco): 12:20pm - 2:20pm
+GMT: 20:20 - 22:20<br>
+ET (New York): 3:20pm - 5:20pm <br>
+PT (San Francisco): 12:20pm - 2:20pm <br>
 Paris: 21:20 - 23:20
 
+[Register Here](https://washington.zoom.us/meeting/register/tJElceivrTkvEtWdUoijVL8hrN5mOgS7guyn)
 
 ## Day 1 - November 14 (times in GMT)
 

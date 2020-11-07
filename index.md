@@ -21,9 +21,8 @@ will be a virtual workshop at ICSR 2020. Our goal is to explore the
 creative potential a robot offers as well as
 whether society will engage with such robots.
 
-**Join us:** <br>
-Please email us at **creativity.robotics@gmail.com** to request Zoom access to the
-Workshop.
+**REGISTER HERE:** <br>
+[Zoom Registration link](https://washington.zoom.us/meeting/register/tJElceivrTkvEtWdUoijVL8hrN5mOgS7guyn)
 
 
 This workshop is endorsed by Frontiers via a new research topic on

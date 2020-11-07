@@ -9,7 +9,7 @@ subtitle: at ICSR 2020
 **Submission:**  (UPDATED) **Oct 26, 2020** (midnight Pacific Time) <br>
 **Notification:** (UPDATED) **Oct 30, 2020** Nov. 5, 2020 <br>
 **VIDEO SUBMISSION DUE:** **Nov 10, 2020** (midnight Pacific Ttime) <br>
-**Workshop:** November 14 and 15, 2020
+**Workshop:** November 14 and 15, 2020 ([Register here](https://washington.zoom.us/meeting/register/tJElceivrTkvEtWdUoijVL8hrN5mOgS7guyn))
 
 
 We invite papers that target creativity, robotics and the arts,
