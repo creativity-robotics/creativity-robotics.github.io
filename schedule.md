@@ -24,7 +24,7 @@ Paris: 21:20 - 23:20
 | **Session 1** (Theme: Collaborate to Create) |  |
 | Cameron, "Collaboration Checklist for Creative Robots" | 20:30 - 20:40 |
 | Ali et al., "Influence of a Social Robot's Co-presence on Children's Figural Creativity | 20:40 - 20:50 |
-| Alves-Oliviera et al., "Should a Robot Promote or Prevent? Regulatory Processes for Stimulating Creativity in Children" | 20:50 - 21:00 |
+| Calvo et al., "Should a Robot Promote or Prevent? Regulatory Processes for Stimulating Creativity in Children" | 20:50 - 21:00 |
 | _Directed Discussions_: Definitions of Creativity | 21:00 - 21:25 |
 | **Session 2** (Theme: Companion and Tool) |  |
 | Kubli, "Are We There Yet? Designing a Companion for Lone Drivers | 21:25 - 21:35 |
