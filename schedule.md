@@ -14,8 +14,6 @@ ET (New York): 3:20pm - 5:20pm <br>
 PT (San Francisco): 12:20pm - 2:20pm <br>
 Paris: 21:20 - 23:20
 
-[Register Here](https://washington.zoom.us/meeting/register/tJElceivrTkvEtWdUoijVL8hrN5mOgS7guyn)
-
 ## Day 1 - November 14 (times in GMT)
 
 | Event                                          | Time      |
