@@ -6,10 +6,10 @@ subtitle: at ICSR 2020
 
 # Call for Papers
 
-**Submission:**  <s>(UPDATED) **Oct 26, 2020** (midnight Pacific Time) <br></s>
-**Notification:** <s>(UPDATED) **Oct 30, 2020** Nov. 5, 2020 <br></s>
-**VIDEO SUBMISSION DUE:** <s>**Nov 10, 2020** (midnight Pacific Ttime) <br></s>
-**Workshop:** <s>November 14 and 15, 2020 ([Register here](https://washington.zoom.us/meeting/register/tJElceivrTkvEtWdUoijVL8hrN5mOgS7guyn))</s>
+**Submission:**  <s>Oct 26, 2020 (midnight Pacific Time) <br></s>
+**Notification:** <s>Nov. 5, 2020 <br></s>
+**VIDEO SUBMISSION DUE:** <s>Nov 10, 2020 (midnight Pacific Ttime) <br></s>
+**Workshop:** <s>November 14 and 15, 2020</s>
 
 
 We invite papers that target creativity, robotics and the arts,
