@@ -6,10 +6,10 @@ subtitle: at ICSR 2020
 
 # Call for Papers
 
-**Submission:**  (UPDATED) **Oct 26, 2020** (midnight Pacific Time) <br>
-**Notification:** (UPDATED) **Oct 30, 2020** Nov. 5, 2020 <br>
-**VIDEO SUBMISSION DUE:** **Nov 10, 2020** (midnight Pacific Ttime) <br>
-**Workshop:** November 14 and 15, 2020 ([Register here](https://washington.zoom.us/meeting/register/tJElceivrTkvEtWdUoijVL8hrN5mOgS7guyn))
+**Submission:**  <s>(UPDATED) **Oct 26, 2020** (midnight Pacific Time) <br></s>
+**Notification:** <s>(UPDATED) **Oct 30, 2020** Nov. 5, 2020 <br></s>
+**VIDEO SUBMISSION DUE:** <s>**Nov 10, 2020** (midnight Pacific Ttime) <br></s>
+**Workshop:** <s>November 14 and 15, 2020 ([Register here](https://washington.zoom.us/meeting/register/tJElceivrTkvEtWdUoijVL8hrN5mOgS7guyn))</s>
 
 
 We invite papers that target creativity, robotics and the arts,
@@ -53,8 +53,7 @@ necessarily be read by the reviewers. We request and recommend that
 authors rely on the supplementary material only to include minor
 details that do not fit in the 6 pages. The submission process is
 double-blind. All submissions must be formatted with LaTeX using
-the [ICSR 2020 paper
-format](https://sites.psu.edu/icsr2020/submission/)
+the [ICSR 2020 paper format](https://sites.psu.edu/icsr2020/submission/)
 
 Submission: Email paper to creativity.robotics@gmail.com
 
