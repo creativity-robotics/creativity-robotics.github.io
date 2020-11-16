@@ -21,8 +21,7 @@ will be a virtual workshop at ICSR 2020. Our goal is to explore the
 creative potential a robot offers as well as
 whether society will engage with such robots.
 
-This workshop is endorsed by Frontiers via a new research topic on
-"[Creativity and Robotics](https://www.frontiersin.org/research-topics/14181/creativity-and-robotics) in Frontiers in Robotics and AI Journal launched by the organizers of this proposed workshop.
+This workshop is endorsed by Frontiers via a new research topic on [Creativity and Robotics](https://www.frontiersin.org/research-topics/14181/creativity-and-robotics) in Frontiers in Robotics and AI Journal launched by the organizers of this proposed workshop.
 <hr> 
 
 
